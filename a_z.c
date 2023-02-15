@@ -1,3 +1,4 @@
+//char check
 #include<stdio.h>
 main()
 {
