@@ -7,7 +7,11 @@ main()
 	scanf("%d",&ch);
 	while(ch<=122)
 	{
+	
+	
 	printf("%c\n",ch);
 	ch++;
-}
+	
+	
+	}
 }
